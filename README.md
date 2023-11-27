@@ -18,4 +18,5 @@ Here are my solved Leetcode Problems.
 - Valid Parenthesis
 - Merge Two sorted list
 - Remove Duplicate from sorted array
+- Remove Element
 - 

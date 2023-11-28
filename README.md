@@ -19,4 +19,5 @@ Here are my solved Leetcode Problems.
 - Merge Two sorted list
 - Remove Duplicate from sorted array
 - Remove Element
-- 
+- Find the Index of the First Occurrence in a String
+-

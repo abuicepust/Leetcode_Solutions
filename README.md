@@ -20,4 +20,4 @@ Here are my solved Leetcode Problems.
 - Remove Duplicate from sorted array
 - Remove Element
 - Find the Index of the First Occurrence in a String
--
+- Search Insert Position

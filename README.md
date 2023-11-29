@@ -22,4 +22,5 @@ Here are my solved Leetcode Problems.
 - Find the Index of the First Occurrence in a String
 - Search Insert Position
 - Length of Last Word
+- plus One
 - 

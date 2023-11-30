@@ -24,4 +24,5 @@ Here are my solved Leetcode Problems.
 - Length of Last Word
 - plus One
 - Add Binary (Not accepted Passed 127/296 testcases)
+- Sqrt(x)
 - 

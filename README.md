@@ -27,4 +27,5 @@ Here are my solved Leetcode Problems.
 - Sqrt(x)
 - Check If Two String Arrays are Equivalent
 - Climbing Stairs (time limit exceeded- not accepted)
+- **Climbing Stairs(Accpeted)**
 - 

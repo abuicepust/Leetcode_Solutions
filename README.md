@@ -28,4 +28,5 @@ Here are my solved Leetcode Problems.
 - Check If Two String Arrays are Equivalent
 - Climbing Stairs (time limit exceeded- not accepted)
 - **Climbing Stairs(Accpeted)**
+- Remove duplicates from sorted list
 - 

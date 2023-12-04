@@ -1,6 +1,6 @@
 # Leetcode Solutions using JAVA
 
-Here are my solved Leetcode Problems.
+Here are my solved Leetcode Problems-Java.
 
 
 ## This is done by

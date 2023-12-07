@@ -3,7 +3,7 @@
 Here are my solved Leetcode Problems-Java.
 
 
-## This is done by
+## These code are written by
 
 [https://leetcode.com/Abu_Yousuf/]
 [https://github.com/abuicepust]

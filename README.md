@@ -3,7 +3,7 @@
 Here are my solved Leetcode Problems-Java.
 
 
-## These code are written by
+## These codes are written by
 
 [https://leetcode.com/Abu_Yousuf/]    
 [https://github.com/abuicepust]
@@ -41,4 +41,5 @@ Here are my solved Leetcode Problems-Java.
 - Element Appearing More Than 25% In Sorted Array
 - Maximum Product of Two Elements in an Array
 - Convert Sorted Array to Binary Search Tree
+- Special Positions in a Binary Matrix
 - 

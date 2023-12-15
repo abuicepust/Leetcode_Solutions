@@ -11,6 +11,7 @@ Here are my solved Leetcode Problems-Java.
 
 ## Solved Problem Titles
 
+- Path Sum
 - Two Sum
 - Palindrome Number
 - Roman to Integer

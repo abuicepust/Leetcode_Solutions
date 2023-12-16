@@ -11,6 +11,7 @@ Here are my solved Leetcode Problems-Java.
 
 ## Solved Problem Titles
 
+- Valid Anagram
 - Path Sum
 - Two Sum
 - Palindrome Number

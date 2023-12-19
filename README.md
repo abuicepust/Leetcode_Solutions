@@ -11,6 +11,7 @@ Here are my solved Leetcode Problems-Java.
 
 ## Solved Problem Titles
 
+- Single Number
 - Best Time to Buy and Sell Stock
 - Valid Palindrome
 - Pascal's Triangle

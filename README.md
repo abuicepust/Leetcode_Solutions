@@ -11,6 +11,7 @@ Here are my solved Leetcode Problems-Java.
 
 ## Solved Problem Titles
 
+- Invert Binary Tree
 - Binary Tree Postorder Traversal
 - Binary Tree Preorder Traversal
 - Single Number

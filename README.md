@@ -16,6 +16,7 @@ Here are my solved Leetcode Problems-Java.
 - Binary Tree Preorder Traversal
 - Reverse Linked List
 - Linked List Cycle
+- Palindrome Linked List
 - Single Number
 - Best Time to Buy and Sell Stock
 - Valid Palindrome

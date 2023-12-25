@@ -17,6 +17,7 @@ Here are my solved Leetcode Problems-Java.
 - Reverse Linked List
 - Linked List Cycle
 - Palindrome Linked List
+- Count Complete Tree Nodes
 - Single Number
 - Best Time to Buy and Sell Stock
 - Valid Palindrome

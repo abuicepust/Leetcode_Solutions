@@ -15,6 +15,7 @@ Here are my solved Leetcode Problems-Java.
 - Binary Tree Postorder Traversal
 - Binary Tree Preorder Traversal
 - Reverse Linked List
+- Remove Linked List Elements
 - Linked List Cycle
 - Palindrome Linked List
 - Count Complete Tree Nodes

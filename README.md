@@ -25,6 +25,7 @@ Here are my solved Leetcode Problems-Java.
 - Pascal's Triangle
 - Valid Anagram
 - Power of Two
+- Power of Three
 - Path Sum
 - Two Sum
 - Palindrome Number

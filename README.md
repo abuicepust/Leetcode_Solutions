@@ -28,6 +28,7 @@ Here are my solved Leetcode Problems-Java.
 - Power of Two
 - Power of Three
 - Path Sum
+- Reverse Bits
 - Two Sum
 - Palindrome Number
 - Roman to Integer

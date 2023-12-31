@@ -30,6 +30,7 @@ Here are my solved Leetcode Problems-Java.
 - Path Sum
 - Reverse Bits
 - Two Sum
+- 3Sum
 - Palindrome Number
 - Roman to Integer
 - Integer to Roman

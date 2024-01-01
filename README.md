@@ -31,6 +31,7 @@ Here are my solved Leetcode Problems-Java.
 - Reverse Bits
 - Two Sum
 - 3Sum
+- 3Sum Closest
 - Palindrome Number
 - Roman to Integer
 - Integer to Roman

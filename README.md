@@ -23,6 +23,7 @@ Here are my solved Leetcode Problems-Java.
 - Single Number
 - Best Time to Buy and Sell Stock
 - Valid Palindrome
+- Longest Palindromic Substring
 - Pascal's Triangle
 - Valid Anagram
 - Power of Two

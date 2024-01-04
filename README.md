@@ -14,6 +14,7 @@ Here are my solved Leetcode Problems-Java.
 - Invert Binary Tree
 - Binary Tree Postorder Traversal
 - Binary Tree Preorder Traversal
+- Swap Nodes in Pairs
 - Reverse Linked List
 - Remove Linked List Elements
 - Linked List Cycle

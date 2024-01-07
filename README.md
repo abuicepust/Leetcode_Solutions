@@ -28,6 +28,7 @@ Here are my solved Leetcode Problems-Java.
 - Longest Substring Without Repeating Characters
 - Longest Palindromic Substring
 - Pascal's Triangle
+- Reverse Integer
 - Valid Anagram
 - Power of Two
 - Power of Three

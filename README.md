@@ -17,6 +17,7 @@ Here are my solved Leetcode Problems-Java.
 - Leaf-Similar Trees
 - Swap Nodes in Pairs
 - Reverse Linked List
+- Rotate List
 - Remove Linked List Elements
 - Linked List Cycle
 - Palindrome Linked List

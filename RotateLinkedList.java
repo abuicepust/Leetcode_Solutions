@@ -1,4 +1,4 @@
-public class ReverseLinkedList {
+public class RotateLinkedList {
     public static void main(String[] args) {
         
     }
@@ -12,5 +12,17 @@ public class ReverseLinkedList {
             length++;
             tail = tail.next;
         }
+        length++;
+        tail.next = head;
+        int RotatePoint = length - k % length;
+
+        tail = head;
+        while (RotatePoint-- > 1) {
+            tail = tail.next;
+        }
+        head = tail.next;
+        tail.next = null;
+
+        return head;
     }
 }

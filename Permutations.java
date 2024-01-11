@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Permutations {
     public static void main(String[] args) {
-        System.out.println("For tast cases I used Leetcode");
+        System.out.println("For tast cases I've used Leetcode");
     }
     public static List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();

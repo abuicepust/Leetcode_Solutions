@@ -1,17 +1,28 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class BinaryPre_Order {
+public class BInaryPost_Order {
     public static void main(String[] args) {
-        
+
     }
-    public static List<Integer> preorderTraversal(TreeNode root) {
+
+    public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
-        preorder(result, root);
-        
-        return preorder;
+        postorder(result, root);
+
+        return result;
     }
-    public static void preorder(List<Integer> result, TreeNode root){
-        
+
+    public static void postorder(List<Integer> result, TreeNode root) {
+        if (root != null) {
+            if (root.left != null) {
+                postorder(result, root.left);
+            }
+            if (root.right != null) {
+                postorder(result, root.right);
+            }
+            result.add(root.val);
+        }
+
     }
 }

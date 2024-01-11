@@ -38,6 +38,7 @@ Here are my solved Leetcode Problems-Java.
 - Path Sum
 - Reverse Bits
 - Two Sum
+- Permutations
 - 3Sum
 - 3Sum Closest
 - Palindrome Number

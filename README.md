@@ -52,6 +52,7 @@ Here are my solved Leetcode Problems-Java.
 - Find the Index of the First Occurrence in a String
 - Search Insert Position
 - Length of Last Word
+- Determine if String Halves Are Alike
 - plus One
 - Add Binary (Not accepted Passed 127/296 testcases)
 - Sqrt(x)
